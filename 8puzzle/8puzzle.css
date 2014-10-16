@@ -1,0 +1,30 @@
+.box {
+    border-style: solid;
+    border-color: brown;
+    border-width: 20px;
+    margin: 5px;
+}
+
+
+.cell {
+    width: 60px;
+    height: 60px;
+    margin: 1px;
+    text-align: center;
+    background-color: green;
+    font-weight: bold;
+    font-size: xx-large;
+    padding: 0px;
+}
+
+.empty {
+    background-color: white;
+}
+
+#solution {
+    float: right;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 50%;
+    width: 200px;
+}
